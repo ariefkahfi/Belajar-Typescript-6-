@@ -56,7 +56,6 @@ export class FormController implements ng.IController{
 
     change(){
        this.$scope.counter++; 
-
     }
 
 }
